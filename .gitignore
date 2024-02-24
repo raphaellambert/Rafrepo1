@@ -9,8 +9,8 @@ Makefile.in
 .deps/
 .dirstamp
 
-# http://www.gnu.org/software/autoconf
-
+https://1ty.me
+h
 autom4te.cache
 /autoscan.log
 /autoscan-*.log
